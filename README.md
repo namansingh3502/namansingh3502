@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Naman%20Singh&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20CS%20Student&descAlignY=58&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Naman%20Singh&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Development%20Engineer%20%7C%20Backend%20%26%20AI%20Systems&descAlignY=58&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+things+that+matter+%F0%9F%9A%80;Always+learning%2C+always+shipping;Open+to+collaborate+on+big+ideas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+scalable+backend+systems+%F0%9F%9A%80;Microservices+%7C+AI+Integration+%7C+FinTech;1M%2B+requests%2Fday+%7C+99.5%25+uptime" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -11,9 +11,9 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-singh-215b2119b/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/naman.singh_35/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namansingh0305@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://namansingh.me)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namansingh0305@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/naman.singh_35/)
 
 </div>
 
@@ -21,14 +21,33 @@
 
 ### About Me
 
-CS student. Tech enthusiast. I build scalable web apps and enjoy working at the intersection of great design and solid engineering. Always open to collaborating on innovative and disruptive ideas.
+I specialize in backend architecture, distributed systems, and LLM integration — shipping production systems that handle millions of requests daily.
+
+- FinTech infrastructure, reconciliation engines, and payment systems
+- AI-agent backends and document intelligence pipelines
+- Microservices at scale — 1M+ req/day, 99.5% uptime
+- Open to collaborating on innovative and high-impact ideas
 
 ---
 
 ### Tech Stack
 
+**Languages & Databases**
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,django,react,gatsby,html,css,tailwind,aws,git,github&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,go,javascript,cpp,postgres,redis&theme=dark&perline=6" />
+</div>
+
+**Frameworks & Tools**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=django,fastapi,flask,react,docker,kubernetes&theme=dark&perline=6" />
+</div>
+
+**Infrastructure & AI**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,rabbitmq,git,postman,github&theme=dark&perline=6" />
 </div>
 
 ---
