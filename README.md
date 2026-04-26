@@ -1,50 +1,72 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Naman%20Singh&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20CS%20Student&descAlignY=58&descAlign=50" width="100%"/>
+</div>
 
-I am Naman Singh, currently pursuing my bachelor's degree in computer science. I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+things+that+matter+%F0%9F%9A%80;Always+learning%2C+always+shipping;Open+to+collaborate+on+big+ideas" alt="Typing SVG" />
+</div>
 
-## My Portfolio
-[Portfolio](https://namansingh.me/)
+<br/>
 
-## Contact Me
-[![Linkedin Badge](https://img.shields.io/badge/-namansingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naman-singh-215b2119b/)](https://www.linkedin.com/in/naman-singh-215b2119b/)
-[![Instagram Badge](https://img.shields.io/badge/-namansingh-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/naman.singh_35/)](https://www.instagram.com/naman.singh_35/)
-[![Gmail Badge](https://img.shields.io/badge/-namansingh0305@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:namansingh0305@gmail.com)](mailto:namansingh0305@gmail.com)
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-singh-215b2119b/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/naman.singh_35/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namansingh0305@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://namansingh.me)
 
-## Languages and Tools:
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Django](https://img.shields.io/badge/-django-black?style=flat-square&logo=django)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Gatsby](https://img.shields.io/badge/-Gatsby-black?style=flat-square&logo=gatsby)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![AWS](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+</div>
 
+---
 
-## Github Usage ~ Status 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=namansingh3502&theme=tokyonight&count_private=true)
+### About Me
 
-![Aemie's github stats](https://github-readme-stats.aemiej.vercel.app/api?username=namansingh3502&show_icons=true&hide_border=true&theme=tokyonight&private=true) 
+CS student. Tech enthusiast. I build scalable web apps and enjoy working at the intersection of great design and solid engineering. Always open to collaborating on innovative and disruptive ideas.
 
-## Language Usage ~ Status
-![Top Langs](https://github-readme-stats.aemiej.vercel.app/api/top-langs/?username=namansingh3502&layout=compact&theme=tokyonight&show_icons=true&hide_border=true&private=true)
+---
 
-![](https://komarev.com/ghpvc/?username=namansingh3502&color=green)
-<!--
-**namansingh3502/namansingh3502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tech Stack
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,django,react,gatsby,html,css,tailwind,aws,git,github&theme=dark&perline=6" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=namansingh3502&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" height="170"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namansingh3502&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=namansingh3502&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%"/>
+</div>
+
+---
+
+### Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=namansingh3502&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
+
+---
+
+### Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=namansingh3502&theme=tokyonight&no-frame=true&row=1&column=7" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=namansingh3502&color=6AD3F7&style=for-the-badge&label=PROFILE+VIEWS" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+</div>
