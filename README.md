@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Naman%20Singh&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Development%20Engineer%20%7C%20Backend%20%26%20AI%20Systems&descAlignY=58&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Naman%20Singh&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Software%20Development%20Engineer%20%7C%20Backend%20%26%20AI%20Systems&descAlignY=58&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+scalable+backend+systems+%F0%9F%9A%80;Microservices+%7C+AI+Integration+%7C+FinTech;1M%2B+requests%2Fday+%7C+99.5%25+uptime" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+scalable+backend+systems+%F0%9F%9A%80;Microservices+%7C+AI+Integration+%7C+FinTech;Distributed+Systems+%7C+High+Availability" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -25,7 +25,7 @@ I specialize in backend architecture, distributed systems, and LLM integration â
 
 - FinTech infrastructure, reconciliation engines, and payment systems
 - AI-agent backends and document intelligence pipelines
-- Microservices at scale â€” 1M+ req/day, 99.5% uptime
+- Microservices at scale â€” high availability, distributed systems
 - Open to collaborating on innovative and high-impact ideas
 
 ---
@@ -87,5 +87,5 @@ I specialize in backend architecture, distributed systems, and LLM integration â
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
 </div>
